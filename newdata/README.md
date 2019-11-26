@@ -4,7 +4,7 @@ csv files for data analysis
 
 ## How these files created?
 
-auto generated with python code from data directory
+auto generated with python code from [data directory](https://github.com/woojin-hwang/hot2cold/tree/master/data)
 
 See *reference 10* in main.ipynb
 
